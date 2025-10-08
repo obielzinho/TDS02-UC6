@@ -9,14 +9,17 @@ namespace NovoEstacionamento.Models
     public class Veiculo
     {
         public int Id { get; set; }
-
+       
         public int ClienteId { get; set; }
 
         public string placa { get; set; }
 
         public string modelo { get; set; }
-        public string cor { get; set; }
+        public string cores { get; set; }
 
+        // Propriedade de navegação
+
+        public Cliente Cliente { get; set; }
     }
 
 }

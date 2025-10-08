@@ -6,15 +6,12 @@ using System.Threading.Tasks;
 
 namespace NovoEstacionamento.Models
 {
-        public class Cliente(String nome)
+     class Servico
     {
-     
-
         public int Id { get; set; }
         public string Nome { get; set; }
-        public string Cpf { get; set; }
-        public string Telefone { get; set; }
-        public string Apelido { get; set; }
+        public decimal Preco { get; set; }
 
+        public string Descricao { get; set; }
     }
 }
