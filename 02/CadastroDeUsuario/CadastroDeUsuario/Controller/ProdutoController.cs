@@ -68,10 +68,10 @@ namespace CadastroDeUsuario.Controller
         {
             // Dizer onde estou
             Console.Clear();
-            Console.WriteLine("=== Detalhes do Usuario ===");
+            Console.WriteLine("=== Detalhes do Produto ===");
 
             // Pedir o ID do usuario
-            Console.WriteLine("Digite o ID do usuario: ");
+            Console.WriteLine("Digite o ID do Produto: ");
             var idProduto = int.Parse(Console.ReadLine());
 
             // Buscar o usuario no banco de dados   

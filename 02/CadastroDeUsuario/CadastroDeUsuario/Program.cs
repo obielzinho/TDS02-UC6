@@ -20,6 +20,8 @@ var usuarioController = host.Services.GetRequiredService<UsuarioController>();
 var produtoController = host.Services.GetRequiredService<ProdutoController>();
 
 MenuPrincipal();
+MenuProdutos();
+
 void MenuPrincipal()
 {
     bool sair = false;
@@ -61,7 +63,8 @@ void MenuUsuario()
         Console.WriteLine("1. Listar Usuario");
         Console.WriteLine("2. Detalhes do Usuario");
         Console.WriteLine("3. Cadastrar Usuario");
-        Console.WriteLine("4. Remover Usuario");
+        Console.WriteLine("4. Atualizar Usuario por ID");
+        Console.WriteLine("5. Remover Usuario");
         Console.WriteLine("0. Voltar ");
 
         string? opcao = Console.ReadLine();
@@ -81,6 +84,10 @@ void MenuUsuario()
                 break;
 
                 case "4":
+                    usuarioController.AtualizarUsuario();
+                break;
+
+            case "5":
                     usuarioController.Remover();
                 break;
 

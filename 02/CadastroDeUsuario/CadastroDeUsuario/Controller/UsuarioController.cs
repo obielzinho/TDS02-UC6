@@ -125,5 +125,46 @@ namespace CadastroDeUsuario.Controller
             Console.ReadKey();
         }
 
+        public void AtualizarUsuario()
+        {
+
+            Console.Clear();
+            Console.WriteLine("=== Atualizar Usuario ===");
+            Console.Write("Digite o ID do usuario ");
+            var idUsuario = int.Parse(Console.ReadLine());
+
+            var usuarioParaAtualizar = _context.Usuarios.FirstOrDefault(usuario => usuario.Id == idUsuario);
+
+            if (usuarioParaAtualizar == null)
+            {
+                Console.WriteLine("Usuario nao encontrado!");
+                Console.ReadKey();
+                return;
+            }
+
+            Console.Write($"Editando usuario: {usuarioParaAtualizar.Nome}");
+            Console.Write(" Novo Primeiro nome: ");
+            string? novoNome = Console.ReadLine();
+
+            Console.Write(" Novo Sobrenome: ");
+            string? novoSobrenome = Console.ReadLine();
+
+            Console.Write(" Nova Data de Nascimento (AAAA-MM-DD): ");
+            DateOnly novaDataDeNascimento = DateOnly.Parse(Console.ReadLine()!);
+
+            usuarioParaAtualizar.Nome = novoNome;
+            usuarioParaAtualizar.Sobrenome = novoSobrenome;
+            usuarioParaAtualizar.DataDeNascimento = novaDataDeNascimento;
+
+            _context.Usuarios.Update(usuarioParaAtualizar);
+            _context.SaveChanges();
+
+            Console.WriteLine("Usuario atualizado com sucesso!");
+            Console.ReadKey();
+
+
+
+        }
+
     }
 }
