@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{41D312AA-6705-405D-AF43-1A2C0B1E3E70}|EstacionamentoSenac.API\\EstacionamentoSenac.API.csproj|solutionrelative:estacionamentosenac.api\\controllers\\veiculoscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabriel.mdionato\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\04\\EstacionamentoSenac\\EstacionamentoSenac.API\\Migrations\\20251023001015_PrimeiraMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EstacionamentoSenac.API\\Migrations\\20251023001015_PrimeiraMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41D312AA-6705-405D-AF43-1A2C0B1E3E70}|EstacionamentoSenac.API\\EstacionamentoSenac.API.csproj|c:\\users\\gabriel.mdionato\\onedrive - senac - sp\\github\\tds02-uc6\\04\\estacionamentosenac\\estacionamentosenac.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41D312AA-6705-405D-AF43-1A2C0B1E3E70}|EstacionamentoSenac.API\\EstacionamentoSenac.API.csproj|solutionrelative:estacionamentosenac.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41D312AA-6705-405D-AF43-1A2C0B1E3E70}|EstacionamentoSenac.API\\EstacionamentoSenac.API.csproj|c:\\users\\gabriel.mdionato\\onedrive - senac - sp\\github\\tds02-uc6\\04\\estacionamentosenac\\estacionamentosenac.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41D312AA-6705-405D-AF43-1A2C0B1E3E70}|EstacionamentoSenac.API\\EstacionamentoSenac.API.csproj|solutionrelative:estacionamentosenac.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41D312AA-6705-405D-AF43-1A2C0B1E3E70}|EstacionamentoSenac.API\\EstacionamentoSenac.API.csproj|c:\\users\\gabriel.mdionato\\onedrive - senac - sp\\github\\tds02-uc6\\04\\estacionamentosenac\\estacionamentosenac.api\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41D312AA-6705-405D-AF43-1A2C0B1E3E70}|EstacionamentoSenac.API\\EstacionamentoSenac.API.csproj|solutionrelative:estacionamentosenac.api\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D312AA-6705-405D-AF43-1A2C0B1E3E70}|EstacionamentoSenac.API\\EstacionamentoSenac.API.csproj|c:\\users\\gabriel.mdionato\\onedrive - senac - sp\\github\\tds02-uc6\\04\\estacionamentosenac\\estacionamentosenac.api\\migrations\\20251023001015_primeiramigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D312AA-6705-405D-AF43-1A2C0B1E3E70}|EstacionamentoSenac.API\\EstacionamentoSenac.API.csproj|solutionrelative:estacionamentosenac.api\\migrations\\20251023001015_primeiramigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D312AA-6705-405D-AF43-1A2C0B1E3E70}|EstacionamentoSenac.API\\EstacionamentoSenac.API.csproj|c:\\users\\gabriel.mdionato\\onedrive - senac - sp\\github\\tds02-uc6\\04\\estacionamentosenac\\estacionamentosenac.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D312AA-6705-405D-AF43-1A2C0B1E3E70}|EstacionamentoSenac.API\\EstacionamentoSenac.API.csproj|solutionrelative:estacionamentosenac.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,16 +38,16 @@
               "Title": "VeiculosControllers.cs",
               "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\04\\EstacionamentoSenac\\EstacionamentoSenac.API\\Controllers\\VeiculosControllers.cs",
               "RelativeDocumentMoniker": "EstacionamentoSenac.API\\Controllers\\VeiculosControllers.cs",
-              "ToolTip": "C:\\Users\\gabriel.mdionato\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\04\\EstacionamentoSenac\\EstacionamentoSenac.API\\Controllers\\VeiculosControllers.cs",
-              "RelativeToolTip": "EstacionamentoSenac.API\\Controllers\\VeiculosControllers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gabriel.mdionato\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\04\\EstacionamentoSenac\\EstacionamentoSenac.API\\Controllers\\VeiculosControllers.cs*",
+              "RelativeToolTip": "EstacionamentoSenac.API\\Controllers\\VeiculosControllers.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T00:45:05.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "20251023001015_PrimeiraMigration.cs",
               "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\04\\EstacionamentoSenac\\EstacionamentoSenac.API\\Migrations\\20251023001015_PrimeiraMigration.cs",
               "RelativeDocumentMoniker": "EstacionamentoSenac.API\\Migrations\\20251023001015_PrimeiraMigration.cs",
@@ -61,19 +61,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\04\\EstacionamentoSenac\\EstacionamentoSenac.API\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "EstacionamentoSenac.API\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\gabriel.mdionato\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\04\\EstacionamentoSenac\\EstacionamentoSenac.API\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "EstacionamentoSenac.API\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T23:27:39.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Veiculo.cs",
               "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\04\\EstacionamentoSenac\\EstacionamentoSenac.API\\Models\\Veiculo.cs",
               "RelativeDocumentMoniker": "EstacionamentoSenac.API\\Models\\Veiculo.cs",
@@ -86,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\04\\EstacionamentoSenac\\EstacionamentoSenac.API\\Program.cs",
               "RelativeDocumentMoniker": "EstacionamentoSenac.API\\Program.cs",
@@ -95,6 +82,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T23:00:13.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\04\\EstacionamentoSenac\\EstacionamentoSenac.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EstacionamentoSenac.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gabriel.mdionato\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\04\\EstacionamentoSenac\\EstacionamentoSenac.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EstacionamentoSenac.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T23:27:39.301Z",
               "EditorCaption": ""
             }
           ]
