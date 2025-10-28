@@ -1,7 +1,7 @@
 ﻿using EstacionamentoSenac.API.Models;
 using Microsoft.EntityFrameworkCore;
-namespace EstacionamentoSenac.API.D
 
+namespace EstacionamentoSenac.API
 {
     public class AppDbContext : DbContext
     {
@@ -10,5 +10,6 @@ namespace EstacionamentoSenac.API.D
         }
 
         public DbSet<Veiculo> Veiculos { get; set; }
+        public DbSet<Motorista> Motoristas { get; set; }
         }
     }

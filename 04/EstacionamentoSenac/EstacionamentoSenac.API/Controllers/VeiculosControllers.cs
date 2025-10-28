@@ -1,6 +1,4 @@
-﻿using EstacionamentoSenac.API.D;
-using EstacionamentoSenac.API.Models;
-using Microsoft.AspNetCore.Http;
+﻿using EstacionamentoSenac.API.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EstacionamentoSenac.API.Controllers
