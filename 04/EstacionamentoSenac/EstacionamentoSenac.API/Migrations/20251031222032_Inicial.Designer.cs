@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EstacionamentoSenac.API.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251029233757_Inicial ")]
+    [Migration("20251031222032_Inicial")]
     partial class Inicial
     {
         /// <inheritdoc />
