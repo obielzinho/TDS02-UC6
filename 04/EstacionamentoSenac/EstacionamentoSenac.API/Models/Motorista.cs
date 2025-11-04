@@ -8,7 +8,7 @@ namespace EstacionamentoSenac.API.Models
         public string? Nome { get; set; }
         public int? VeiculoId { get; set; } // Chave estrangeira
 
-        [JsonIgnore]
+       // [JsonIgnore]
         public Veiculo? Veiculo { get; set; } // Propriedade de navegação
     }
 }

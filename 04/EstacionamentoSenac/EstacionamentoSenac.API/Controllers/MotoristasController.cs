@@ -1,7 +1,7 @@
 ﻿using EstacionamentoSenac.API.Data;
 using EstacionamentoSenac.API.Models;
-using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace EstacionamentoSenac.API.Controllers
 {
@@ -19,14 +19,15 @@ namespace EstacionamentoSenac.API.Controllers
         [HttpGet]
         public ActionResult<List<Motorista>> GetMotoristas()
         {
-            return Ok(_context.Motoristas.ToList());
+            return Ok(_context.Motoristas.Include(m => m.Veiculo).ToList());
         }
 
         [HttpGet("{id}")]
-        public ActionResult<Veiculo> GetMotoristaById(int id)
+        public ActionResult<Motorista> GetMotoristaById(int id)
         {
-            //_context.Veiculos.FirstOrDefault(v => v.Id == id);
-            var motorista = _context.Motoristas.Find(id);
+            var motorista = _context.Motoristas
+                .Include(m => m.Veiculo)
+                .FirstOrDefault(v => v.Id == id);
 
             if (motorista == null)
                 return NotFound();
@@ -35,7 +36,7 @@ namespace EstacionamentoSenac.API.Controllers
         }
 
         [HttpPost]
-        public ActionResult<Veiculo> PostMotorista(Motorista motorista)
+        public ActionResult<Motorista> PostMotorista(Motorista motorista)
         {
             _context.Motoristas.Add(motorista);
             _context.SaveChanges();
@@ -61,7 +62,7 @@ namespace EstacionamentoSenac.API.Controllers
         }
 
         [HttpDelete("{id}")]
-        public ActionResult<Motorista> DeleteMotorista (int id)
+        public ActionResult<Motorista> DeleteMotorista(int id)
         {
             var motorista = _context.Motoristas.Find(id);
             if (motorista == null) return NotFound();
