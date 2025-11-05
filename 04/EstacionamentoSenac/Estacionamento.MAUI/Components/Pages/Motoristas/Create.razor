@@ -1,42 +1,45 @@
 ﻿@page "/motorista/create"
-@inject HttpClient Http
 @using Estacionamento.MAUI.Models
-@inject NavigationManager NavigationManager
-<h3>Create</h3>
+@inject HttpClient Http
 
-<h3 class="text-center mb-3">Novo Veículo</h3>
+<h3>Novo Motorista</h3>
 
 <hr />
 
 <div class="row">
     <div class="col-md-4">
-
-        <form @onsubmit = "CreateVeiculo">
+        <form>
             <div class="form-group">
-                <label for="marca" class="control-label">Marca</label>
-                <input for="marca" class="form-control" @bind="@veiculo.Marca"/>
+                <label for="nome" class="control-label">Nome</label>
+                <input for="nome" class="form-control" />
             </div>
             <div class="form-group">
-                <label for="modelo" class="control-label">Modelo</label>
-                <input for="modelo" class="form-control"@bind="veiculo.Modelo" />
+                <label for="veiculo" class="control-label">Veículo</label>
+                <select for="veiculo" class="form-control">
+
+                    <option> selecione um veiculo </option>
+                    @if (veiculos != null)
+                    {
+                        @foreach (var veiculo in veiculos)
+                        {
+                            <option>@veiculo.Marca - @veiculo.Modelo</option>
+                        }
+                    }
+                </select>
             </div>
             <div class="form-group mt-3">
                 <input type="submit" value="Salvar" class="btn btn-primary" />
                 <a href="#" class="btn btn-light">Voltar</a>
             </div>
         </form>
-
     </div>
 </div>
 
 @code {
-    Veiculo veiculo = new Veiculo();
-    async Task CreateVeiculo()
+    List<Veiculo>? veiculos;
+
+    protected override async Task OnInitializedAsync()
     {
-        await Http.PostAsJsonAsync("https://localhost:4000/api/Motoristas/", veiculo);
-        NavigationManager.NavigateTo("/veiculos");
+        veiculos = await Http.GetFromJsonAsync<List<Veiculo>>("https://localhost:4000/api/Veiculos");
     }
-
-
 }
-
