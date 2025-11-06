@@ -1,6 +1,7 @@
 ﻿@page "/motorista/create"
 @using Estacionamento.MAUI.Models
 @inject HttpClient Http
+@inject NavigationManager NavigationManager
 
 <h3>Novo Motorista</h3>
 
@@ -8,38 +9,46 @@
 
 <div class="row">
     <div class="col-md-4">
-        <form>
+        <form @onsubmit="CreateMotorista">
+            <!--Chamar a função de criar no submit-->
             <div class="form-group">
                 <label for="nome" class="control-label">Nome</label>
-                <input for="nome" class="form-control" />
+                <input for="nome" class="form-control" @bind="motorista.Nome" />
             </div>
             <div class="form-group">
                 <label for="veiculo" class="control-label">Veículo</label>
-                <select for="veiculo" class="form-control">
-
-                    <option> selecione um veiculo </option>
+                <select for="veiculo" class="form-control" @bind="motorista.VeiculoId">
+                    <option value="">- Selecione um Veículo -</option>
                     @if (veiculos != null)
                     {
                         @foreach (var veiculo in veiculos)
                         {
-                            <option>@veiculo.Marca - @veiculo.Modelo</option>
+                            <option value="@veiculo.Id">@veiculo.Marca - @veiculo.Modelo</option>
                         }
                     }
                 </select>
             </div>
             <div class="form-group mt-3">
                 <input type="submit" value="Salvar" class="btn btn-primary" />
-                <a href="#" class="btn btn-light">Voltar</a>
+                <a href="/motoristas" class="btn btn-light">Voltar</a>
             </div>
         </form>
     </div>
 </div>
 
 @code {
+    Motorista motorista = new Motorista(); // Criar o objeto
     List<Veiculo>? veiculos;
 
     protected override async Task OnInitializedAsync()
     {
         veiculos = await Http.GetFromJsonAsync<List<Veiculo>>("https://localhost:4000/api/Veiculos");
+    }
+
+    // Chamar o endpiont
+    async Task CreateMotorista()
+    {
+        await Http.PostAsJsonAsync("https://localhost:4000/api/Motoristas", motorista);
+        NavigationManager.NavigateTo("/motoristas");
     }
 }
