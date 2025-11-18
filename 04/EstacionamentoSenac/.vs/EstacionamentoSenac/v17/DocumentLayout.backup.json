@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|c:\\users\\gabriel.mdionato\\documents\\tds02-uc6\\04\\estacionamentosenac\\estacionamento.maui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|solutionrelative:estacionamento.maui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|c:\\users\\gabriel.mdionato\\documents\\tds02-uc6\\04\\estacionamentosenac\\estacionamento.maui\\components\\pages\\veiculos\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|solutionrelative:estacionamento.maui\\components\\pages\\veiculos\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|c:\\users\\gabriel.mdionato\\documents\\tds02-uc6\\04\\estacionamentosenac\\estacionamento.maui\\components\\pages\\veiculos\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|solutionrelative:estacionamento.maui\\components\\pages\\veiculos\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|c:\\users\\gabriel.mdionato\\documents\\tds02-uc6\\04\\estacionamentosenac\\estacionamento.maui\\components\\pages\\veiculos\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|solutionrelative:estacionamento.maui\\components\\pages\\veiculos\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|c:\\users\\gabriel.mdionato\\documents\\tds02-uc6\\04\\estacionamentosenac\\estacionamento.maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|solutionrelative:estacionamento.maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED393F2-FF7C-4A92-894B-AFD0402D0A38}|EstacionamentoSenac.API\\EstacionamentoSenac.API.csproj|c:\\users\\gabriel.mdionato\\documents\\tds02-uc6\\04\\estacionamentosenac\\estacionamentosenac.api\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED393F2-FF7C-4A92-894B-AFD0402D0A38}|EstacionamentoSenac.API\\EstacionamentoSenac.API.csproj|solutionrelative:estacionamentosenac.api\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED393F2-FF7C-4A92-894B-AFD0402D0A38}|EstacionamentoSenac.API\\EstacionamentoSenac.API.csproj|c:\\users\\gabriel.mdionato\\documents\\tds02-uc6\\04\\estacionamentosenac\\estacionamentosenac.api\\models\\motorista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED393F2-FF7C-4A92-894B-AFD0402D0A38}|EstacionamentoSenac.API\\EstacionamentoSenac.API.csproj|solutionrelative:estacionamentosenac.api\\models\\motorista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|c:\\users\\gabriel.mdionato\\documents\\tds02-uc6\\04\\estacionamentosenac\\estacionamento.maui\\components\\pages\\motoristas\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|solutionrelative:estacionamento.maui\\components\\pages\\motoristas\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|c:\\users\\gabriel.mdionato\\documents\\tds02-uc6\\04\\estacionamentosenac\\estacionamento.maui\\components\\pages\\motoristas\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|solutionrelative:estacionamento.maui\\components\\pages\\motoristas\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|c:\\users\\gabriel.mdionato\\documents\\tds02-uc6\\04\\estacionamentosenac\\estacionamento.maui\\components\\pages\\motoristas\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|solutionrelative:estacionamento.maui\\components\\pages\\motoristas\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|c:\\users\\gabriel.mdionato\\documents\\tds02-uc6\\04\\estacionamentosenac\\estacionamento.maui\\components\\pages\\veiculos\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|solutionrelative:estacionamento.maui\\components\\pages\\veiculos\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|c:\\users\\gabriel.mdionato\\documents\\tds02-uc6\\04\\estacionamentosenac\\estacionamento.maui\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,22 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|c:\\users\\gabriel.mdionato\\documents\\tds02-uc6\\04\\estacionamentosenac\\estacionamento.maui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|solutionrelative:estacionamento.maui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|c:\\users\\gabriel.mdionato\\documents\\tds02-uc6\\04\\estacionamentosenac\\estacionamento.maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|solutionrelative:estacionamento.maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|c:\\users\\gabriel.mdionato\\documents\\tds02-uc6\\04\\estacionamentosenac\\estacionamento.maui\\components\\pages\\veiculos\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|solutionrelative:estacionamento.maui\\components\\pages\\veiculos\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|c:\\users\\gabriel.mdionato\\documents\\tds02-uc6\\04\\estacionamentosenac\\estacionamento.maui\\components\\pages\\veiculos\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|solutionrelative:estacionamento.maui\\components\\pages\\veiculos\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|c:\\users\\gabriel.mdionato\\documents\\tds02-uc6\\04\\estacionamentosenac\\estacionamento.maui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68219829-DDD6-4E68-AABE-35346B20A7C7}|Estacionamento.MAUI\\Estacionamento.MAUI.csproj|solutionrelative:estacionamento.maui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Veiculo.cs",
               "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Models\\Veiculo.cs",
               "RelativeDocumentMoniker": "Estacionamento.MAUI\\Models\\Veiculo.cs",
@@ -55,19 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Delete.razor",
-              "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Delete.razor",
-              "RelativeDocumentMoniker": "Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Delete.razor",
-              "ToolTip": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Delete.razor",
-              "RelativeToolTip": "Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Delete.razor",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowB0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-06T00:38:53.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Estacionamento.MAUI\\Components\\Pages\\Home.razor",
@@ -75,23 +87,113 @@
               "RelativeToolTip": "Estacionamento.MAUI\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-06T00:32:34.465Z"
+              "WhenOpened": "2025-11-06T00:32:34.465Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\EstacionamentoSenac.API\\Models\\Veiculo.cs",
+              "RelativeDocumentMoniker": "EstacionamentoSenac.API\\Models\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\EstacionamentoSenac.API\\Models\\Veiculo.cs",
+              "RelativeToolTip": "EstacionamentoSenac.API\\Models\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T22:17:30.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Motorista.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\EstacionamentoSenac.API\\Models\\Motorista.cs",
+              "RelativeDocumentMoniker": "EstacionamentoSenac.API\\Models\\Motorista.cs",
+              "ToolTip": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\EstacionamentoSenac.API\\Models\\Motorista.cs",
+              "RelativeToolTip": "EstacionamentoSenac.API\\Models\\Motorista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T22:17:27.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.razor",
+              "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Components\\Pages\\Motoristas\\Delete.razor",
+              "RelativeDocumentMoniker": "Estacionamento.MAUI\\Components\\Pages\\Motoristas\\Delete.razor",
+              "ToolTip": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Components\\Pages\\Motoristas\\Delete.razor",
+              "RelativeToolTip": "Estacionamento.MAUI\\Components\\Pages\\Motoristas\\Delete.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T00:46:32.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Components\\Pages\\Motoristas\\Create.razor",
+              "RelativeDocumentMoniker": "Estacionamento.MAUI\\Components\\Pages\\Motoristas\\Create.razor",
+              "ToolTip": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Components\\Pages\\Motoristas\\Create.razor",
+              "RelativeToolTip": "Estacionamento.MAUI\\Components\\Pages\\Motoristas\\Create.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T00:08:55.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Components\\Pages\\Motoristas\\Index.razor",
+              "RelativeDocumentMoniker": "Estacionamento.MAUI\\Components\\Pages\\Motoristas\\Index.razor",
+              "ToolTip": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Components\\Pages\\Motoristas\\Index.razor",
+              "RelativeToolTip": "Estacionamento.MAUI\\Components\\Pages\\Motoristas\\Index.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T23:29:51.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Edit.razor",
+              "RelativeDocumentMoniker": "Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Edit.razor",
+              "ToolTip": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Edit.razor",
+              "RelativeToolTip": "Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Edit.razor",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T22:58:56.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.razor",
+              "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Delete.razor",
+              "RelativeDocumentMoniker": "Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Delete.razor",
+              "ToolTip": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Delete.razor",
+              "RelativeToolTip": "Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Delete.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T00:38:53.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Index.razor",
               "RelativeDocumentMoniker": "Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Index.razor",
               "ToolTip": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Index.razor",
               "RelativeToolTip": "Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Index.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-06T00:28:16.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Create.razor",
               "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Create.razor",
               "RelativeDocumentMoniker": "Estacionamento.MAUI\\Components\\Pages\\Veiculos\\Create.razor",
@@ -104,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\MauiProgram.cs",
               "RelativeDocumentMoniker": "Estacionamento.MAUI\\MauiProgram.cs",
@@ -112,11 +214,12 @@
               "RelativeToolTip": "Estacionamento.MAUI\\MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T00:40:20.865Z"
+              "WhenOpened": "2025-11-06T00:40:20.865Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Routes.razor",
               "DocumentMoniker": "C:\\Users\\gabriel.mdionato\\Documents\\TDS02-UC6\\04\\EstacionamentoSenac\\Estacionamento.MAUI\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "Estacionamento.MAUI\\Components\\Routes.razor",
@@ -124,7 +227,8 @@
               "RelativeToolTip": "Estacionamento.MAUI\\Components\\Routes.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-06T00:35:56.446Z"
+              "WhenOpened": "2025-11-06T00:35:56.446Z",
+              "EditorCaption": ""
             }
           ]
         }
